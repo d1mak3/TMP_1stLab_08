@@ -1,0 +1,3 @@
+﻿  StackSort_08.cpp
+C:\Users\ДИМОООООООН\source\repos\TMP\StackSort_08\StackSort_08.cpp(136,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  StackSort_08.vcxproj -> C:\Users\ДИМОООООООН\source\repos\TMP\StackSort_08\Debug\StackSort_08.exe
